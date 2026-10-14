@@ -12,7 +12,7 @@ function setup(){
 
 function draw(){
     if (mouse.presses()) {
-        
+        square.velocity.y -=1
     }
     background("grey");
 
