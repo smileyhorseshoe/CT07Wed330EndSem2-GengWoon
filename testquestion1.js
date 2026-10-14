@@ -1,11 +1,11 @@
 
-let bird
+let bird;
 let background, birdImg;
 
 
 function preload(){
-    background = loadImage('assets/background.png')
-    birdImg = loadImage('assets/bird.png')
+    background = loadImage('assets/background.png');
+    birdImg = loadImage('assets/bird.png');
 }
 
 
