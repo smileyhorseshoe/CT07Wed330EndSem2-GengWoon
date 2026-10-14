@@ -2,7 +2,7 @@ let square;
 
 function setup(){
     new Canvas(400, 600);
-   
+   world.gravity.y = 
     
 
 
